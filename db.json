@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "id": "ac8c7261-915a-4767-a2be-b58b282fa080",
+      "text": "hi how are you",
+      "is_done": false,
+      "created_at": "2023-11-23T16:43:51.534Z"
+    },
+    {
+      "id": "0ccf5152-55af-401a-b1d8-8ee09fc4cdf9",
+      "text": "hi how are you",
+      "is_done": false,
+      "created_at": "2023-11-23T16:43:51.736Z"
+    },
+    {
+      "id": "4e0966fd-74df-4daf-ab6a-b7d439da9368",
+      "text": "",
+      "is_done": false,
+      "created_at": "2023-11-28T18:41:48.829Z"
+    }
+  ]
+}
